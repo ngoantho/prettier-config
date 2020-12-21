@@ -1,8 +1,8 @@
 {
   "name": "@ngoantho/prettier-config",
   "description": "My prettier config",
-  "version": "0.2.0",
-  "main": "index.json",
+  "version": "0.3.0",
+  "main": "index.js",
   "license": "MIT",
   "homepage": "https://github.com/ngoantho/prettier-config",
   "author": "Anthony Ngo (https://anthonyngo.me)",
